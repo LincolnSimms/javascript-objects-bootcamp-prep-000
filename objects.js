@@ -1,5 +1,6 @@
 var playlist = {
-  'Jimi Hendrix': 'Purple Haze'
+  'Jimi Hendrix': 'Purple Haze',
+  'The Beatles': 'Abbey Road'
 };
 
 function updatePlaylist(playlist, artist, song) {
