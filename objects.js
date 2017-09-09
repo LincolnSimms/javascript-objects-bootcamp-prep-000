@@ -1,3 +1,3 @@
 var playlist = {
-  Jimi Hendrix: 'Purple Haze'
+  'Jimi Hendrix': 'Purple Haze'
 };
